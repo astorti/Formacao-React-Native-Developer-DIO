@@ -54,3 +54,12 @@ __**Sequenciador de senhas**__
 O projeto para criação de senhas desenvolvido em aula conforme [Projeto inicial-DIO](https://github.com/felipeAguiarCode/react-native-bat-pass-generator). Como parte do desafio para entrega do projeto, foi implantada uma mensagem informando que a senha foi copiada ao clicar no botão de cópia e ao gerar uma nova senha a mensagem deixa de ser exibida. Também foi implementado como desafio, a opção de escolhar o nível de segurança da senha (fraca, normal ou forte) a ser gerada utilizando a bibloteca "react-native-select-dropdown"
 
 Acessar projeto [<u>**bat-expo-app**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/bat-expo-app) 
+
+---
+
+
+__**Bat Sinal**__
+
+O projeto consiste na criação de duas paginas, uma tela inicial, na qual é apresentada uma imagem e um botão para ativar o sinal, que ao pressionar é direcionado para uma tela de formulário. Clicando no botão enviar na tela de formulário, a aplicação retorna para a tela inicial. O desafio foi desenvolver toda a aplicação do zero.
+
+Acessar projeto [<u>**bat-sinal**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/bat-sinal) 
