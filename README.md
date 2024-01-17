@@ -129,4 +129,4 @@ __**Portifolio**__
 
 Com o propósito de desenvolver as habilidades com a navegação entre as screens, foi sugerida a criação de duas telas. A tela principal consiste na identificação pessoal, com imagem e links para contato, enquanto que a segunda tela, consiste na identificação das skills(linguagens de programação) já desenvolvidas, seguida de quantidade de estrelas informando o nivel da habilidade adquirida. Foi proposto o desenvolvimento de toda a aplicação do zero e como modo de navegação optou-se por utilizar o __navigation-stack__
 
-Acessar projeto [<u>**portifolio-app**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/portifolio-appl) 
+Acessar projeto [<u>**portifolio-app**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/portifolio-app) 
