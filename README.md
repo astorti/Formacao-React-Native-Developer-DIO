@@ -121,3 +121,12 @@ __**Bat Sinal**__
 O projeto consiste na criação de duas paginas, uma tela inicial, na qual é apresentada uma imagem e um botão para ativar o sinal, que ao pressionar é direcionado para uma tela de formulário. Clicando no botão enviar na tela de formulário, a aplicação retorna para a tela inicial. O desafio foi desenvolver toda a aplicação do zero.
 
 Acessar projeto [<u>**bat-sinal**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/bat-sinal) 
+
+---
+
+
+__**Portifolio**__
+
+Com o propósito de desenvolver as habilidades com a navegação entre as screens, foi sugerida a criação de duas telas. A tela principal consiste na identificação pessoal, com imagem e links para contato, enquanto que a segunda tela, consiste na identificação das skills(linguagens de programação) já desenvolvidas, seguida de quantidade de estrelas informando o nivel da habilidade adquirida. Foi proposto o desenvolvimento de toda a aplicação do zero e como modo de navegação optou-se por utilizar o __navigation-stack__
+
+Acessar projeto [<u>**portifolio-app**</u>](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/PROJETOS/portifolio-appl) 
