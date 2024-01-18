@@ -105,6 +105,14 @@ Nesta etapa do curso foram apresentados como utilizar diferentes tipos de hooks 
 >>```
 >___
 
+### 04_GERENCIANDO_COMPONENTES
+
+Neste modulo foi revisado conceitos de hooks e apresentado o hook useContext. 
+
+>App [my-hooks: ](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/04_GERENCIANDO_COMPONENTES/my-hooks) Neste app foi abordado os hooks __useState, useReducer, useEffect e useRef__.
+
+>App [context: ](https://github.com/astorti/Formacao-React-Native-Developer-DIO/tree/main/04_GERENCIANDO_COMPONENTES/context) Neste app foi apresentado o conceito de contexto e como utilizar o hook __useContext__.
+
 ## **Desafios de Projetos**
 
 __**Sequenciador de senhas**__
